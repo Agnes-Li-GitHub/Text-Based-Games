@@ -21,12 +21,5 @@ This is an educational game that requires player to input a wide range of vocabu
 3. For users that choose "login", we assume there is a file (e.g. tom.txt) and this username (e.g. tom) is inside the all_user.txt.
 4. The user need to download all the files above in order to run the game smoothly.
 
-### Setting:
-In this adventure game, it requires additional libraries. 
-- We make use of vector to store all the points the user got, various input if he/she plays for more than once
-- We make use of random to generate random sets of numbers and letters. As game 1 requires a large number of random numbers within a short period of time, making use of "random" is better.
-- We also include string library for storing username, user's input and more.
-- We also include fstream for getting username in main, reading words for game 3 and more. It is better to store words in a textfile for easier change. 
-
 Credit: 
 English words: https://github.com/openethereum/wordlist/blob/master/res/wordlist.txt
