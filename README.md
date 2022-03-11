@@ -23,3 +23,6 @@ This is an educational game that requires player to input a wide range of vocabu
 
 Credit: 
 English words: https://github.com/openethereum/wordlist/blob/master/res/wordlist.txt
+
+Note: 
+This is my course project.
